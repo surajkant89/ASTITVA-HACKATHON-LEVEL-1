@@ -113,8 +113,10 @@ float: right;
 margin-top: 26px;
 border: 10px;
 border-color: black;
-border-radius: 20px;
-background-color: azure;
+border-radius: 15px;
+background-color: rgb(220, 50, 15);
+text-decoration: double;
+
 }
 .section{
     display: flex;
